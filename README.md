@@ -21,4 +21,4 @@ repo into a fresh Colab notebook.
 5. What are two types of models you'd consider and what are
    some pros and cons.
 
-6. What metrics would you use to evvaluate the model(s) above?
+6. What metrics would you use to evaluate the model(s) above?
