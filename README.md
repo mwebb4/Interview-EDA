@@ -10,7 +10,7 @@ repo into a fresh Colab notebook.
 
 ## Questions
 
-1. Load the `train.csv` file as a `pandas.DatraFrame`.
+1. Load the `train.csv` file as a `pandas.DataFrame`.
 
 2. How many numeric and categorical columns in the dataset?
 
